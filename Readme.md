@@ -17,3 +17,19 @@ Olá Seja Bem Vindo!
 
 
 ![Calculo](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/cce98aca-38fd-4a06-a180-e7f301ea03c4)
+
+
+
+![AponHoras](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/71de5b6a-0da0-4fad-80fb-71eeaba72338)
+
+
+
+![Cad Func](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/02dbdd62-05e8-43ee-a3b8-9a6e9a7e052b)
+
+
+![Cad Func](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/eaa58faf-8010-462d-81f9-f098d7c9e3a2)
+
+
+![Func desli](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/083bdd2b-aa44-4b52-a637-33b4ee5b363a)
+
+
