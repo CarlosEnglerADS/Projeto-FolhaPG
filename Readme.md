@@ -20,11 +20,11 @@ Olá Seja Bem Vindo!
 
 
 
-![AponH![Cad Func](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/f39fb107-5653-4cad-bca3-a8ceb74e7bc0)
+![Cad Func](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/f39fb107-5653-4cad-bca3-a8ceb74e7bc0)
 
 
 
-oras](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/71de5b6a-0da0-4fad-80fb-71eeaba72338)
+![AponHoras](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/71de5b6a-0da0-4fad-80fb-71eeaba72338)
 
 
 
