@@ -1,0 +1,201 @@
+D:\C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+D:\C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+D:\C#\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+D:\C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\biel_\OneDrive\Documentos\facu\PIM\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Em Trabalho\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+S:\Unip\S4-2023\PIM\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Tentativa final\PIMFinal\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+S:\Unip\S4-2023\PIM\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmFuncDeslig.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmRegistroOcorrencias.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmRegistroOcorrencias.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmFuncDeslig.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmRegistroOcorrencias.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmFuncDeslig.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\Trabalhando neste\PIM3.1\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.frmApontamento.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.FrmCadastro.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.frmCalculo.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.FrmFuncDeslig.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.FrmHolerite.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.FrmSobre.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.frmAcompanhamento.pt-BR.resources
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\dudaa\source\repos\esse PIM o Correto\Cadastro\Cadastro\obj\Debug\Cadastro.pdb

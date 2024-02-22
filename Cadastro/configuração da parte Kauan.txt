@@ -1,0 +1,2 @@
+mudar as string no app config e o frm Apontamento
+e frm cadastro conferir os nomes dos insert 

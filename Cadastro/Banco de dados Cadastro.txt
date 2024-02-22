@@ -1,0 +1,18 @@
+--criar base de dados
+CREATE DATABASE Cadastro;
+
+USE Cadastro;
+
+--criar tabela Funcionario
+CREATE TABLE Funcionario (
+    ID         INT NULL
+    Nome       VARCHAR (50) NULL,
+    DTADM      DATETIME NULL,
+    VLHORA     DECIMAL(10,2) NULL
+);
+
+--criar tabela TB_Apontamentos
+CREATE TABLE TB_Apontamentos (
+    DTDIA      DATETIME NULL,
+    HORAS      TIME NULL,
+);

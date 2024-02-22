@@ -1,0 +1,179 @@
+[10:19, 05/10/2023] Rafa: 
+--create database LoginCharp
+--use ProjetoPIM
+
+/* Lógico_2: */
+
+CREATE TABLE Funcionario (
+    ID INT NOT NULL,
+    Status BIT NOT NULL,
+    Nome VARCHAR(100),  -- Defini um tamanho (100) para o campo Nome
+    CPF VARCHAR(11),
+    DataAdmissao DATETIME NOT NULL,
+    Email VARCHAR(100),  -- Defini um tamanho (100) para o campo email
+    Telefone VARCHAR(15),  -- Defini um tamanho (15) para o campo Telefone
+    Endereco VARCHAR(20),  -- Defini um tamanho (20) para a chave estrangeira
+    EstadoCivil VARCHAR(20),  -- Defini um tamanho (20) para o campo estadocivil
+    Conjuge VARCHAR(100),  -- Defini um tamanho (100) para o campo Conjuge
+    Filhos INT,
+    DataRecisao DATETIME,
+    PRIMARY KEY (CPF, ID)
+);
+
+CREATE TABLE Descontos (
+    IDOP INT PRIMARY KEY,
+    TipoDesconto VARCHAR(50),  -- Defini um tamanho (50) para o campo TipoDesconto
+    ValorDesconto MONEY,
+    DescricaoDesconto VARCHAR(100)  -- Defini um tamanho (100) para o campo DescricaoDesconto
+);
+
+CREATE TABLE FolhaPagamento (
+    IDFolha INT PRIMARY KEY,
+    SalarioFolha MONEY,
+    Descontos MONEY,
+    Beneficios VARCHAR(100),  -- Defini um tamanho (100) para o campo Beneficios
+    HExtra DECIMAL(10, 2),
+    HDeve DECIMAL(10, 2)
+);
+
+CREATE TABLE Beneficio (
+    IDBeneficio INT PRIMARY KEY,
+    TipoBeneficio VARCHAR(50),  -- Defini um tamanho (50) para o campo TipoBeneficio
+    InfoBeneficio INT
+);
+
+CREATE TABLE Ferias (
+    IDFerias INT PRIMARY KEY,
+    DataFerias DATE,
+    DiasRetirados INT,
+    RetornoFerias DATE,
+    DiasRestantes INT,
+    fk_Funcionario_CPF VARCHAR(11),
+    fk_Funcionario_ID INT
+);
+
+CREATE TABLE Cargo (
+    Cargo VARCHAR(50) PRIMARY KEY,  -- Defini um tamanho (50) para o campo Cargo
+    InfoCargo VARCHAR(100),  -- Defini um tamanho (100) para o campo InfoCargo
+    Salario MONEY
+);
+
+CREATE TABLE Endereco (
+    Endereco_PK VARCHAR(20) NOT NULL PRIMARY KEY,
+    Rua VARCHAR(100),  -- Defini um tamanho (100) para o campo Rua
+    Numero INT,
+    Complemento VARCHAR(50),  -- Defini um tamanho (50) para o campo Complemento
+    CEP VARCHAR(10),  -- Defini um tamanho (10) para o campo CEP
+    Bairro VARCHAR(50),  -- Defini um tamanho (50) para o campo Bairro
+    Cidade VARCHAR(50),  -- Defini um tamanho (50) para o campo Cidade
+    Estado VARCHAR(50)  -- Defini um tamanho (50) para o campo Estado
+);
+
+CREATE TABLE [dbo].[Usuario] (
+    [Username] VARCHAR (50) NOT NULL,
+    [Password] VARCHAR (20) NOT NULL,
+    [ID]       VARCHAR(10)   NULL
+);
+
+CREATE TABLE DescontoFolha (
+    fk_Descontos_IDOP INT,
+    fk_Funcionario_CPF VARCHAR(11),
+    fk_Funcionario_ID INT
+);
+
+CREATE TABLE BeneficioFuncionario (
+    fk_Funcionario_CPF VARCHAR(11),
+    fk_Funcionario_ID INT,
+    fk_Beneficio_IDBeneficio INT
+);
+
+CREATE TABLE FolhaFuncionario (
+    fk_Funcionario_CPF VARCHAR(11),
+    fk_Funcionario_ID INT,
+    fk_FolhaPagamento_IDFolha INT
+);
+
+CREATE TABLE CargoFuncionario (
+    fk_Funcionario_CPF VARCHAR(11),
+    fk_Funcionario_ID INT,
+    fk_Cargo_Cargo VARCHAR(50)  -- Defini um tamanho (50) para o campo fk_Cargo_Cargo
+);
+ 
+ALTER TABLE Funcionario ADD CONSTRAINT FK_Funcionario_2
+    FOREIGN KEY (fk_Endereco_Endereco_PK)
+    REFERENCES Endereco (Endereco_PK)
+    ON DELETE SET NULL;
+ 
+ALTER TABLE Ferias ADD CONSTRAINT FK_Ferias_2
+    FOREIGN KEY (fk_Funcionario_CPF, fk_Funcionario_ID)
+    REFERENCES Funcionario (CPF, ID)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE DescontoFolha ADD CONSTRAINT FK_DescontoFolha_1
+    FOREIGN KEY (fk_Descontos_IDOP)
+    REFERENCES Descontos (IDOP)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE DescontoFolha ADD CONSTRAINT FK_DescontoFolha_2
+    FOREIGN KEY (fk_Funcionario_CPF, fk_Funcionario_ID)
+    REFERENCES Funcionario (CPF, ID)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE BeneficioFuncionario ADD CONSTRAINT FK_BeneficioFuncionario_1
+    FOREIGN KEY (fk_Funcionario_CPF, fk_Funcionario_ID)
+    REFERENCES Funcionario (CPF, ID)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE BeneficioFuncionario ADD CONSTRAINT FK_BeneficioFuncionario_2
+    FOREIGN KEY (fk_Beneficio_IDBeneficio)
+    REFERENCES Beneficio (IDBeneficio)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE FolhaFuncionario ADD CONSTRAINT FK_FolhaFuncionario_1
+    FOREIGN KEY (fk_Funcionario_CPF, fk_Funcionario_ID)
+    REFERENCES Funcionario (CPF, ID)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE FolhaFuncionario ADD CONSTRAINT FK_FolhaFuncionario_2
+    FOREIGN KEY (fk_FolhaPagamento_IDFolha)
+    REFERENCES FolhaPagamento (IDFolha)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE CargoFuncionario ADD CONSTRAINT FK_CargoFuncionario_1
+    FOREIGN KEY (fk_Funcionario_CPF, fk_Funcionario_ID)
+    REFERENCES Funcionario (CPF, ID)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+ 
+ALTER TABLE CargoFuncionario ADD CONSTRAINT FK_CargoFuncionario_2
+    FOREIGN KEY (fk_Cargo_Cargo)
+    REFERENCES Cargo (Cargo)
+    ON DELETE CASCADE;  -- Alterado para CASCADE
+[10:20, 05/10/2023] Rafa: -- Teste de inserção de dados.
+-- 1º Inserção na tabela Endereco (exemplo com 2 endereços)
+INSERT INTO Endereco (Endereco_PK, Rua, Numero, Complemento, CEP, Bairro, Cidade, Estado)
+VALUES
+  ('1', 'Rua A', '123', 'Apto 101', '12345-678', 'Bairro A', 'Cidade A', 'Estado A'),
+  ('2', 'Rua B', '456', 'Casa 2', '98765-432', 'Bairro B', 'Cidade B', 'Estado B');
+
+--2º Inserção na tabela Beneficio
+INSERT INTO Beneficio (IDBeneficio, TipoBeneficio, InfoBeneficio)
+VALUES
+  (1, 'Plano de Saúde', 1), -- Corrigido o valor de InfoBeneficio para um número (exemplo: 1)
+  (2, 'Vale Transporte', 2); -- Corrigido o valor de InfoBeneficio para um número (exemplo: 2)
+
+-- 3º Inserção na tabela Funcionario (exemplo com 5 funcionários)
+INSERT INTO Funcionario (ID, Status, Nome, CPF, DataAdmissao, email, Telefone, fk_Endereco_Endereco_PK, estadocivil, Conjuge, Filhos, DataRecisao)
+VALUES
+  (1, 1, 'João Silva', '12345678901', '2021-01-15', 'joao.silva@example.com', '123456789', '1', 'Solteiro', NULL, 0, NULL),
+  (2, 1, 'Maria Oliveira', '98765432101', '2020-11-20', 'maria.oliveira@example.com', '987654321', '2', 'Casada', 'João Oliveira', 2, NULL),
+  (3, 1, 'Pedro Santos', '11111111111', '2022-03-10', 'pedro.santos@example.com', '111111111', '1', 'Solteiro', NULL, 0, NULL),
+  (4, 1, 'Ana Souza', '22222222222', '2020-09-05', 'ana.souza@example.com', '222222222', '2', 'Casada', 'Marcos Souza', 1, NULL),
+  (5, 1, 'Márcio Oliveira', '33333333333', '2021-06-25', 'marcio.oliveira@example.com', '333333333', '1', 'Solteiro', NULL, 0, NULL);
+-- 4º Inserção na tabela Descontos
+INSERT INTO Descontos (IDOP, TipoDesconto, ValorDesconto, DescricaoDesconto)
+VALUES
+  (3, 'Outro Desconto', 150.00, 'Outro tipo de desconto');
+-- 5º Inserção na tabela FolhaPagamento
+INSERT INTO FolhaPagamento (IDFolha, SalarioFolha, Descontos, Beneficios, HExtra, HDeve)
+VALUES
+  (3, 3800.00, 400.00, 'Vale Refeição', 9.5, 4.0);
