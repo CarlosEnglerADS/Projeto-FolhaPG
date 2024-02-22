@@ -13,3 +13,7 @@ Olá Seja Bem Vindo!
 
 
 ![login Realizado](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/dc50f001-8997-4e7f-bbaf-1b3908cbb72d)
+
+
+
+![Calculo](https://github.com/CarlosEnglerADS/Projeto-FolhaPG/assets/125681322/cce98aca-38fd-4a06-a180-e7f301ea03c4)
